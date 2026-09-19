@@ -9,7 +9,7 @@ export const PERSONAL_INFO = {
   email: 'tanndas1002@gmail.com',
   phone: '+91 80954 30594',
   linkedin: 'https://www.linkedin.com/in/tanmay-das-6b9748273',
-  github: 'https://github.com',
+  github: 'https://github.com/Tann18',
   location: 'Bengaluru, India',
   summary: `I engineer semantic search pipelines, dense vector embeddings, and autonomous AI workflows at Interloom. My focus is mathematical similarity calibration, sibling-technology guardrails against semantic drift, and reliable LLM triage.`
 };
